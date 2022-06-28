@@ -17,7 +17,7 @@ footer: "THEOS Group Presentation, Chris Sewell, June 2022"
 
 # Introduction
 
-Cover some best practices for creating a program application:
+Cover some thoughts for creating program applications:
 
 - Environment and source control
 - Programming languages
@@ -152,6 +152,12 @@ Whatever language you use, many steps will be similar:
   - Test driven development
 - Compilation and packaging
 - Distribution
+
+---
+
+# Web development
+
+![width:1000px](./images/Website-Frontend-and-Backend.jpg)
 
 ---
 
